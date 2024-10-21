@@ -14,4 +14,4 @@ This CLI tool generates a simple SVG logo based on user input.
     node index.js
 
 ## Walkthrough Video
-Link to Walkthrough Video
+[Link to Walkthrough Video](https://github.com/arrozDpollo/svg-generator/blob/main/Module-Challenge10.mp4)
